@@ -1,5 +1,5 @@
 <h4 align="center">
-<img src="./mobile/src/assets/logo@3x.png" width="250px" /><br>
+<img src="ialexanderbrito_preto.png" width="300px" /><br>
  <b>Titulo</b>
 </h4>
 <p align="center">
