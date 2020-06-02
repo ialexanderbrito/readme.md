@@ -49,6 +49,68 @@ Extras:
 
 <b>Um pouco sobre o projeto</b>. 
 
+### ⚙ Como rodar este projeto
+
+Podemos considerar este projeto como sendo divido em três partes:
+
+1. Backend
+2. Frontend
+3. Mobile
+
+<b>💡 Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.</b>
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+
+<b>[Git](https://git-scm.com)</b>
+
+<b>[Node.js](https://nodejs.org/en/)</b>
+
+E também será preciso um editor, eu indico o <b>[VSCode](https://code.visualstudio.com/)</b>
+
+### 🧭 Rodando o Backend
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/ialexanderbrito/...
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd ...
+
+# Vá para a pasta Backend
+$ cd ...
+
+# Instale as dependências
+$ npm install ou yarn add
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev:server ou yarn dev
+
+# O servidor inciará na porta:3333 - acesse http://localhost:3333 
+```
+
+### 🧭 Rodando o Frontend
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/ialexanderbrito/...
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd ...
+
+# Vá para a pasta da aplicação Frontend
+$ cd ...
+
+# Instale as dependências
+$ npm install ou yarn add
+
+# Execute a aplicação
+$ npm start ou yarn start
+
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+```
+
 ### :recycle: Como contribuir
 
 - Fork esse repositório;
