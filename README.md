@@ -177,4 +177,4 @@ Me acompanhe nas minhas redes sociais.
 
 ---
 
-Feito com ❤️ by **Alexander** 🤙
+Feito com ❤️ by **Alexander** 🤙🏾
